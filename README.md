@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @r9hit
-- 👀 I’m interested in software engineering.
+- 👀 I’m interested in the field of IT/software engineering.
 - 🌱 I’m currently learning C/C++.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
