@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rohit Kumar</h1>
-<h3 align="center">Fresher</h3>
+<h3 align="center">M.tech AI at Delhi Technological University (DTU)</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=r9hit&label=Profile%20views&color=0e75b6&style=flat" alt="r9hit" /> </p> -->
 
-- 🔭 I’m currently working on **Back end developement**
+- 🔭 I’m currently working on **Machine Learning**
 
-- 🌱 I’m currently learning **C++ and Full stack web development.**
+- 🌱 I’m currently learning **Python and NLP.**
 
 - 👨‍💻 All of my projects are available at [https://r9hit.netlify.app/](https://r9hit.netlify.app/)
 
