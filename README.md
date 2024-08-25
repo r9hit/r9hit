@@ -3,11 +3,9 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=r9hit&label=Profile%20views&color=0e75b6&style=flat" alt="r9hit" /> </p> -->
 
-- 🔭 I’m currently working on **Machine Learning**
+- 🔭 I’m currently learning **Python, Machine Learning and NLP.**
 
-- 🌱 I’m currently learning **Python and NLP.**
-
-- 👨‍💻 All of my projects are available at [https://r9hit.netlify.app/](https://r9hit.netlify.app/)
+- 👨‍💻 All of my web projects are available at [https://r9hit.netlify.app/](https://r9hit.netlify.app/)
 
 - 📫 How to reach me **choudharyrohit313131@gmail.com**
 
