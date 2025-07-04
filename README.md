@@ -7,8 +7,7 @@
 
 ## 🚀 About Me  
 - 🔭 **Currently Learning**: Python, Machine Learning, and Deep Learning.  
-- 🌱 **Exploring**: Advanced AI technologies and Deep Learning.  
-- 🌐 **Portfolio**: [r9hit.netlify.app](https://r9hit.netlify.app/)  
+- 🌱 **Exploring**: Advanced AI technologies and Deep Learning.   
 - 📫 **Reach Me**: choudharyrohit313131@gmail.com  
 
 ---
